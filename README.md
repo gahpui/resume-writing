@@ -1,8 +1,6 @@
-<!DOCTYPE html>
 <html lang="en" prefix="og: http://ogp.me/ns#">
 <head>
 <meta charset="utf-8" />
-<title>Resume Writing Services 2022 - Resume Writing Services 2022</title>
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
 <meta name="robots" content="noarchive" />
 <meta name="description" content="The Best Resume Writing Services of 2022 Best Overall: Let’s Eat, Grandma; Runner-Up, Best Overall: Monster.com; Best Price: The Muse; Best Customer Service. TopResume is also one of the best federal resume writing services on the market. What’s Great (Pros): Free assessment, experienced." />
@@ -72,7 +70,6 @@ Yes, these are the best resumes for  2022  for four major reasons: Up-to-date: E
 <p>
 </p>
 <p>
-<iframe width='100%' height='500' src=https://www.youtube.com/embed/WIj_O6ua8wo frameborder='0' allow='autoplay; encryptedvsmedia' allowfullscreen></iframe>
 </p>
       <div itemscope itemtype="http://schema.org/Product"> 
       <span itemprop="name">Resume Writing Services 2022</span>             
@@ -93,5 +90,3 @@ Yes, these are the best resumes for  2022  for four major reasons: Up-to-date: E
 </p>
       </div>
     </footer>
-  </body>
-</html>
